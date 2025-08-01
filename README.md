@@ -14,7 +14,7 @@
 
 ---
 
-- LinkedIn: www.linkedin.com/in/sinemozdemir1
+- LinkedIn: [linkedin/sinemozdemir](www.linkedin.com/in/sinemozdemir1)
 
 ## 🌱 About Me
 
