@@ -9,7 +9,7 @@
 ## 🚀 Technologies I Use
 
 - **Programming Languages:** Python, Java, Dart, Flutter, Kotlin 
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn 
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn ,Streamlit
 - **Tools:** Git, GitHub, Jupyter Notebook, PyCharm, Android Studio, Intellij Idea
 
 ---
